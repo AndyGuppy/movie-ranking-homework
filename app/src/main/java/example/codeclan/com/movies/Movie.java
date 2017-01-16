@@ -7,7 +7,7 @@ package example.codeclan.com.movies;
 public class Movie {
     private String title;
     private String genre;
-    int ranking;
+    private int ranking;
 
     public Movie(String title, String genre, int ranking){
         this.title = title;
